@@ -279,7 +279,10 @@ session_start();
                               
                             </div>
                             <div class="modal-body">
-                            
+                            <?php
+                                include "loginForm.php";
+    
+                            ?>
           
                             </div>
                             
