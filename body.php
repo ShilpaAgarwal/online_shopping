@@ -143,10 +143,6 @@
 							<div id="tab1" class="tab-pane active">
 								<div class="products-slick" data-nav="#slick-nav-1">
 
-									<?php
-
-
-									?>
 									<!-- product -->
 
 
@@ -247,9 +243,6 @@
 							<div id="tab2" class="tab-pane fade in active">
 								<div class="products-slick" data-nav="#slick-nav-2">
 									<!-- product -->
-									<?php
-
-									?>
 
 									<!-- /product -->
 								</div>
